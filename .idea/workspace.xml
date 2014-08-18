@@ -23,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7962962" vertical-offset="1212" max-vertical-offset="2788">
-              <caret line="77" column="53" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.1580756" vertical-offset="1212" max-vertical-offset="2788">
+              <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -43,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="portfolio.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8969697" vertical-offset="4277" max-vertical-offset="6341">
+            <state vertical-scroll-proportion="-85.25" vertical-offset="2186" max-vertical-offset="6341">
               <caret line="269" column="1" selection-start-line="269" selection-start-column="1" selection-end-line="269" selection-end-column="1" />
               <folding />
             </state>
@@ -324,18 +324,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7962962" vertical-offset="1212" max-vertical-offset="2788">
-          <caret line="77" column="53" selection-start-line="77" selection-start-column="46" selection-end-line="77" selection-end-column="53" />
+        <state vertical-scroll-proportion="-85.25" vertical-offset="2186" max-vertical-offset="6341">
+          <caret line="269" column="1" selection-start-line="269" selection-start-column="1" selection-end-line="269" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/portfolio.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8969697" vertical-offset="4277" max-vertical-offset="6341">
-          <caret line="269" column="1" selection-start-line="269" selection-start-column="1" selection-end-line="269" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.1580756" vertical-offset="1212" max-vertical-offset="2788">
+          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
           <folding />
         </state>
       </provider>
